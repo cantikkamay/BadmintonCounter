@@ -3,7 +3,6 @@ package com.cantikka.badmintoncounter
 import androidx.lifecycle.ViewModel
 
 class ScoreViewModel : ViewModel() {
-
     var scoreA: Int = 0
         private set
     var scoreB: Int = 0
